@@ -1,1 +1,1 @@
-# 7507Visualization.github.io
+# 7507 Project
