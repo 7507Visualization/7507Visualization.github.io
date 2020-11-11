@@ -45,7 +45,7 @@
                               <h2>Project Overview</h2>
                               <div class="col-md-6" >
                                  <div class="text-center">
-                                    <h3><a href="./World Happiness.html">World Happiness</a></h3>
+                                    <h3>World Happiness</h3>
                                  </div>
                                  <div>
                                     <p>This section presents the World Happiness rankings and takes a deeper look at how social, urban and natural environments together affect happiness.<br><br><br></p>
@@ -53,7 +53,7 @@
                               </div>
                               <div class="col-md-6">
                                  <div class="text-center">
-                                    <h3><a href="./contact.html">London Happiness</a></h3>
+                                    <h3><London Happiness</h3>
                                  </div>
                                  <div>
                                     <p>In this section, we want to use a specific city: London as an example to show how the city's happiness changes over time and how other factors affect it.
