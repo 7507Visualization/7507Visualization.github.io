@@ -34,11 +34,6 @@
                <p >"Happiness can change, and does change, according to the quality of the society in which people live."<br>In this project, we want to explore and visualize how happiness is affected by different factors and how it varies from time to time and from place to place. 
                </p>
             </div>
-            <style>
-               img {
-               margin: auto;
-               }
-            </style>
             <img class="img-responsive" src="./assets/worldassets/global.png">
             <h1><br></h1>
             <div class="text-center">
