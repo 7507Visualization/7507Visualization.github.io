@@ -118,14 +118,10 @@
             <p style="text-align:center">
                <a href="https://drive.google.com/file/d/1JfCFlKjmwhzHFtGp71sG6_60GfhqUABh/view?usp=sharing" class="btn btn-primary btn-lg">View Full Report</a>
             </p>
-            <p>test</p>
+    
          </div>
       </div>
-      <script>
-         document.addEventListener("DOMContentLoaded", function (event) {
-           navActivePage();
-         });
-      </script>
+
       <!-- Google Analytics: change UA-XXXXX-X to be your site's ID 
          <script>
            (function (i, s, o, g, r, a, m) {
