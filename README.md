@@ -8,10 +8,10 @@
             <div class="container">
                <div class="collapse navbar-collapse" id="navbar-collapse-uarr">
                   <ul class="nav navbar-nav navbar-right">
-                     <li><a href="./index.html" title="" class="active">Home</a></li>
-                     <li><a href="./World Happiness.html" title=""> World Happiness </a></li>
-                     <li><a href="./contact.html" title="">London Happiness</a></li>
-                     <li><a href="./components.html" title="">About us</a></li>
+                  <li><a href="./index.html" title="" class="active">Home</a></li>
+                  <li><a href="./World Happiness.html" title=""> World Happiness </a></li>
+                  <li><a href="./London Happiness.html" title="">London Happiness</a></li>
+                  <li><a href="./About us.html" title="">About us</a></li>
                   </ul>
                </div>
             </div>
