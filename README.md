@@ -1,35 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
-   <head>
-      <meta charset="UTF-8">
-      <meta content="IE=edge" http-equiv="X-UA-Compatible">
-      <meta content="width=device-width,initial-scale=1" name="viewport">
-      <meta content="description" name="description">
-      <meta name="google" content="notranslate" />
-      <meta content="Mashup templates have been developped by Orson.io team" name="author">
-      <!-- Disable tap highlight on IE -->
-      <meta name="msapplication-tap-highlight" content="no">
-      <link href="./assets/apple-touch-icon.png" rel="apple-touch-icon">
-      <link href="./assets/favicon.ico" rel="icon">
-      <title>Title page</title>
-      <link href="./main.a3f694c0.css" rel="stylesheet">
-   </head>
+
    <body>
       <!-- Add your content of header -->
       <header>
          <nav class="navbar  navbar-fixed-top navbar-default">
             <div class="container">
-               <div class="navbar-header">
-                  <button type="button" class="navbar-toggle uarr collapsed" data-toggle="collapse" data-target="#navbar-collapse-uarr">
-                  <span class="sr-only">Toggle navigation</span>
-                  <span class="icon-bar"></span>
-                  <span class="icon-bar"></span>
-                  <span class="icon-bar"></span>
-                  </button>
-                  <a class="navbar-brand" href="./index.html" title="">
-                  <img src="./assets/images/mashuptemplate.svg" class="navbar-logo-img" alt="">
-                  </a>
-               </div>
                <div class="collapse navbar-collapse" id="navbar-collapse-uarr">
                   <ul class="nav navbar-nav navbar-right">
                      <li><a href="./index.html" title="" class="active">Home</a></li>
@@ -58,11 +34,6 @@
                <p >"Happiness can change, and does change, according to the quality of the society in which people live."<br>In this project, we want to explore and visualize how happiness is affected by different factors and how it varies from time to time and from place to place. 
                </p>
             </div>
-            <style>
-               img {
-               margin: auto;
-               }
-            </style>
             <img class="img-responsive" src="./assets/worldassets/global.png">
             <h1><br></h1>
             <div class="text-center">
@@ -74,7 +45,7 @@
                               <h2>Project Overview</h2>
                               <div class="col-md-6" >
                                  <div class="text-center">
-                                    <h3><a href="./World Happiness.html">World Happiness</a></h3>
+                                    <h3>World Happiness</h3>
                                  </div>
                                  <div>
                                     <p>This section presents the World Happiness rankings and takes a deeper look at how social, urban and natural environments together affect happiness.<br><br><br></p>
@@ -82,7 +53,7 @@
                               </div>
                               <div class="col-md-6">
                                  <div class="text-center">
-                                    <h3><a href="./contact.html">London Happiness</a></h3>
+                                    <h3><London Happiness</h3>
                                  </div>
                                  <div>
                                     <p>In this section, we want to use a specific city: London as an example to show how the city's happiness changes over time and how other factors affect it.
@@ -99,9 +70,6 @@
          </div>
          <div class="container">
             <div class="row">
-               <div class="col-md-7">
-                  <img class="img-responsive" src="./assets/worldassets/h10.jpg" alt="">
-               </div>
                <div class="col-md-5">
                   <ul class="features">
                      <li>
@@ -131,26 +99,7 @@
             <p style="text-align:center">
                <a href="https://drive.google.com/file/d/1JfCFlKjmwhzHFtGp71sG6_60GfhqUABh/view?usp=sharing" class="btn btn-primary btn-lg">View Full Report</a>
             </p>
-         </div>
-      </div>
-      <script>
-         document.addEventListener("DOMContentLoaded", function (event) {
-           navActivePage();
-         });
-      </script>
-      <!-- Google Analytics: change UA-XXXXX-X to be your site's ID 
-         <script>
-           (function (i, s, o, g, r, a, m) {
-             i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-               (i[r].q = i[r].q || []).push(arguments)
-             }, i[r].l = 1 * new Date(); a = s.createElement(o),
-               m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-           })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-           ga('create', 'UA-XXXXX-X', 'auto');
-           ga('send', 'pageview');
-         </script>
-         
-         -->
-      <script type="text/javascript" src="./main.41beeca9.js"></script>
+
+   
    </body>
 </html>
