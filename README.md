@@ -6,17 +6,6 @@
       <header>
          <nav class="navbar  navbar-fixed-top navbar-default">
             <div class="container">
-               <div class="navbar-header">
-                  <button type="button" class="navbar-toggle uarr collapsed" data-toggle="collapse" data-target="#navbar-collapse-uarr">
-                  <span class="sr-only">Toggle navigation</span>
-                  <span class="icon-bar"></span>
-                  <span class="icon-bar"></span>
-                  <span class="icon-bar"></span>
-                  </button>
-                  <a class="navbar-brand" href="./index.html" title="">
-                  <img src="./assets/images/mashuptemplate.svg" class="navbar-logo-img" alt="">
-                  </a>
-               </div>
                <div class="collapse navbar-collapse" id="navbar-collapse-uarr">
                   <ul class="nav navbar-nav navbar-right">
                      <li><a href="./index.html" title="" class="active">Home</a></li>
@@ -86,9 +75,6 @@
          </div>
          <div class="container">
             <div class="row">
-               <div class="col-md-7">
-                  <img class="img-responsive" src="./assets/worldassets/h10.jpg" alt="">
-               </div>
                <div class="col-md-5">
                   <ul class="features">
                      <li>
